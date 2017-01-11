@@ -1,0 +1,18 @@
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\obj\Debug\Ethereum Rpc .NET.csprojResolveAssemblyReference.cache
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.dll.config
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.XML
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.dll
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.pdb
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\Newtonsoft.Json.dll
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\Newtonsoft.Json.xml
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\obj\Debug\EthereumRpc.dll
+G:\WK\upwork\etheruem\EthereumRpc-NET\Ethereum Rpc .NET\obj\Debug\EthereumRpc.pdb
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.dll.config
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.XML
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.dll
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\EthereumRpc.pdb
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\Newtonsoft.Json.dll
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\bin\Debug\Newtonsoft.Json.xml
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\obj\Debug\Ethereum Rpc .NET.csprojResolveAssemblyReference.cache
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\obj\Debug\EthereumRpc.dll
+C:\EXATE\NEW_CODE_10102016\EthereumRpc-NET\EthereumRpc-NET\Ethereum Rpc .NET\obj\Debug\EthereumRpc.pdb
